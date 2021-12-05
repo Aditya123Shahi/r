@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: larger;
+    background-color: brown;
+}
+img{
+    width: 400px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+#d2{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+hr{
+    width: 50px;
+}
+#Favorite_food{
+    background: linear-gradient(cyan,rgb(233, 144, 42));
+}
+.menu{
+    list-style: none;
+    cursor: pointer;
+    position: sticky;
+    display: inline;
+}
+.links{
+    padding: 9px;
+    float: center;
+}
